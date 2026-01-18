@@ -7,6 +7,11 @@ body {
     background-color: #fae1dd;
     font-family: DM Serif Text, sans-serif;
     margin: 0;
+    
+     background-image: url("https://i.postimg.cc/RZKrCSQJ/Whats-App-Image-2026-01-18-at-17-58-49.jpg");
+        background-repeat: no-repeat;
+        background-position: bottom right;
+        background-size: 120px;
 }
 
 .contenedor {
@@ -145,3 +150,4 @@ body {
         font-size: 1rem;
     }
 }
+
